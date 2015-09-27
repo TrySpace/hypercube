@@ -1,0 +1,22 @@
+{
+  "name": "hypercube",
+  "version": "1.0.0",
+  "description": "Hypercubes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrySpace/hypercube.git"
+  },
+  "keywords": [
+    "hypercube"
+  ],
+  "author": "tryspace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrySpace/hypercube/issues"
+  },
+  "homepage": "https://github.com/TrySpace/hypercube#readme"
+}
